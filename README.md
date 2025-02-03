@@ -4,11 +4,11 @@
 
 
 ## 🚀 About Me
-  🔭 I’m currently working on **exciting AI and software projects**
-  🌱 I’m constantly learning **Software Engineering, machine learning, deep learning, and system design**
-  💡 Passionate about **problem-solving, and open-source**
-  🎯 Goals for 2024: **Level up my skills, contribute to open source, and explore new technologies**
-  💬 Curious about **Python, AI, ML, Web Development**
+ - 🔭 I’m currently working on **exciting AI and software projects**
+ - 🌱 I’m constantly learning **Software Engineering, machine learning, deep learning, and system design**
+ - 💡 Passionate about **problem-solving, and open-source**
+ - 🎯 Goals for 2024: **Level up my skills, contribute to open source, and explore new technologies**
+ - 💬 Curious about **Python, AI, ML, Web Development**
 <!--
 **Larry-Garcia/Larry-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
